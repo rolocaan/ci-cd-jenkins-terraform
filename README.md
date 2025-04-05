@@ -99,6 +99,8 @@ Aplicacion Python minimalista para probar el pipeline CI/CD.
 **ES:** Representacion visual del flujo CI/CD: desde el desarrollador hasta el despliegue en GCP, pasando por Jenkins.  
 **EN:** Visual representation of the CI/CD flow: from developer to deployment on GCP, via Jenkins.
 
+![CI/CD Diagram](diagram.png)
+
 ---
 
 ## Sobre mi | About Me
